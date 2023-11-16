@@ -7,4 +7,7 @@ the used languages used are
 and
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="60px"/>
 <br><br><br>
-
+the end result :
+<br> <br>
+<img src="https://github.com/mMarceloH/Congratulations/blob/master/img/desktop.PNG?raw=true" width="400px">
+<img src="https://github.com/mMarceloH/Congratulations/blob/master/img/mobile.PNG?raw=true" width="100px">
